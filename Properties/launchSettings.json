@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "study_dotnet_web_api": {
+    "StudyDotnetWebAPI": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

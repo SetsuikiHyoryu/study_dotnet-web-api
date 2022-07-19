@@ -10,7 +10,7 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/bin/Debug/net6.0/study_dotnet-web-api.dll",
+      "program": "${workspaceFolder}/bin/Debug/net6.0/StudyDotnetWebAPI.dll",
       "args": [],
       "cwd": "${workspaceFolder}",
       "stopAtEntry": false,

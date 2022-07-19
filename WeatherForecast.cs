@@ -1,4 +1,4 @@
-namespace study_dotnet_web_api;
+namespace StudyDotnetWebAPI;
 
 public class WeatherForecast
 {
