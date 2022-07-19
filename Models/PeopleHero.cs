@@ -4,7 +4,7 @@ namespace StudyDotnetWebAPI.Models
     {
         public int ID { get; set; }
         public string Name { get; set; } = string.Empty;
-        public string GivenName { get; set; } = string.Empty;
         public string FamilyName { get; set; } = string.Empty;
+        public string GivenName { get; set; } = string.Empty;
     }
 }
